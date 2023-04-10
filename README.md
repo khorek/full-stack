@@ -1,12 +1,15 @@
-# Like-twitter App
-An application that allows you to "tweet". Implemented the functionality of "likes" and receiving messages from server.
+# Full-stack App
 
-> - [Live Demo](https://like-twitter-app.vercel.app/) :chicken:
+A full-stack application with Next.js Tailwind Prisma Postgresql and Typescript. Create posts and send to the server.
+
+> - [Live Demo](https://full-stack-sand.vercel.app/) :nerd_face:
 
 ![Screenshot](./pages/images/screenshot.jpg "Screenshot")
 
 ### Practiced
+
 In this project i practiced:
+
 - Postgresql
 - Prisma
 - Typescript
@@ -84,9 +87,10 @@ This section has moved here: [https://facebook.github.io/create-react-app/docs/d
 
 This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
 
-
 ## Authors
+
 Kir Khorev
 
 ## License
+
 This project is licensed under Unlicense license.
